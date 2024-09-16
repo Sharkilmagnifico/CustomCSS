@@ -876,6 +876,22 @@
         margin: 0px;
     }
 /*TopBar*/
+#app-mount .typeWindows_a934d8 {
+        background-color: var(--secondary3-colour); 
+        border-bottom: 2px solid var(--primary3-colour); 
+        height: 30px;
+        margin: 0px;
+    }
+
+    #app-mount .typeWindows_a934d8:after {
+        content: "Fesso chi legge";
+        color: rgb(255,255,255,0.5);
+        font-weight: 500;
+
+        position: absolute;
+        top: 8px;
+        left: 43.2%;
+    }
 
 
     #app-mount .wordmark_a934d8 {top: 3.3px;}
